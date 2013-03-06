@@ -1,0 +1,21 @@
+﻿<mt:Window x:Class="helloworldTouch.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mt="http://schemas.multitouch.com/Multitouch/2008/04"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <ItemsControl ItemsSource="{Binding Photos}" >
+            <ItemsControl.Resources>
+                <DataTemplate DataType="{x:Type sys:String}">
+                    <Image Source="{Binding}"/>
+                </DataTemplate>
+            </ItemsControl.Resources>
+            <ItemsControl.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <mt:TouchablePanel/>
+                </ItemsPanelTemplate>
+            </ItemsControl.ItemsPanel>
+        </ItemsControl>
+    </Grid>
+</mt:Window>
