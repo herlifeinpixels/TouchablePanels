@@ -25,3 +25,33 @@ C:\Users\Hannah\Documents\Visual Studio 2010\Projects\helloworldTouch\helloworld
 C:\Users\Hannah\Documents\Visual Studio 2010\Projects\helloworldTouch\helloworldTouch\obj\x86\Debug\helloworldGallery.csproj.GenerateResource.Cache
 C:\Users\Hannah\Documents\Visual Studio 2010\Projects\helloworldTouch\helloworldTouch\obj\x86\Debug\helloworldTouch.exe
 C:\Users\Hannah\Documents\Visual Studio 2010\Projects\helloworldTouch\helloworldTouch\obj\x86\Debug\helloworldTouch.pdb
+C:\Users\Hannah\Downloads\TouchablePanels-master\TouchablePanels-master\helloworldGallery\helloworldGallery\obj\x86\Debug\helloworldTouch.exe
+C:\Users\Hannah\Downloads\TouchablePanels-master\TouchablePanels-master\helloworldGallery\helloworldGallery\obj\x86\Debug\helloworldTouch.pdb
+C:\Users\Hannah\Documents\Visual Studio 2010\Projects\helloworldGallery\helloworldGallery\obj\x86\Debug\helloworldTouch.exe
+C:\Users\Hannah\Documents\Visual Studio 2010\Projects\helloworldGallery\helloworldGallery\obj\x86\Debug\helloworldTouch.pdb
+C:\Users\Hannah\Documents\Visual Studio 2010\Projects\helloworldGallery\helloworldGallery\bin\Debug\helloworldTouch.exe
+C:\Users\Hannah\Documents\Visual Studio 2010\Projects\helloworldGallery\helloworldGallery\bin\Debug\helloworldTouch.pdb
+C:\Users\Hannah\Documents\Visual Studio 2010\Projects\helloworldGallery\helloworldGallery\bin\Debug\Multitouch.Framework.WPF.dll
+C:\Users\Hannah\Documents\Visual Studio 2010\Projects\helloworldGallery\helloworldGallery\bin\Debug\Physics2DDotNet.dll
+C:\Users\Hannah\Documents\Visual Studio 2010\Projects\helloworldGallery\helloworldGallery\bin\Debug\DynamicUtilities.dll
+C:\Users\Hannah\Documents\Visual Studio 2010\Projects\helloworldGallery\helloworldGallery\bin\Debug\Multitouch.Framework.dll
+C:\Users\Hannah\Documents\Visual Studio 2010\Projects\helloworldGallery\helloworldGallery\bin\Debug\AdvanceMath.dll
+C:\Users\Hannah\Documents\Visual Studio 2010\Projects\helloworldGallery\helloworldGallery\bin\Debug\ManagedWinapi.dll
+C:\Users\Hannah\Documents\Visual Studio 2010\Projects\helloworldGallery\helloworldGallery\bin\Debug\Multitouch.Framework.WPF.pdb
+C:\Users\Hannah\Documents\Visual Studio 2010\Projects\helloworldGallery\helloworldGallery\bin\Debug\Multitouch.Framework.WPF.xml
+C:\Users\Hannah\Documents\Visual Studio 2010\Projects\helloworldGallery\helloworldGallery\bin\Debug\Physics2DDotNet.pdb
+C:\Users\Hannah\Documents\Visual Studio 2010\Projects\helloworldGallery\helloworldGallery\bin\Debug\Physics2DDotNet.xml
+C:\Users\Hannah\Documents\Visual Studio 2010\Projects\helloworldGallery\helloworldGallery\bin\Debug\DynamicUtilities.pdb
+C:\Users\Hannah\Documents\Visual Studio 2010\Projects\helloworldGallery\helloworldGallery\bin\Debug\DynamicUtilities.xml
+C:\Users\Hannah\Documents\Visual Studio 2010\Projects\helloworldGallery\helloworldGallery\bin\Debug\Multitouch.Framework.pdb
+C:\Users\Hannah\Documents\Visual Studio 2010\Projects\helloworldGallery\helloworldGallery\bin\Debug\Multitouch.Framework.xml
+C:\Users\Hannah\Documents\Visual Studio 2010\Projects\helloworldGallery\helloworldGallery\bin\Debug\AdvanceMath.pdb
+C:\Users\Hannah\Documents\Visual Studio 2010\Projects\helloworldGallery\helloworldGallery\bin\Debug\AdvanceMath.xml
+C:\Users\Hannah\Documents\Visual Studio 2010\Projects\helloworldGallery\helloworldGallery\obj\x86\Debug\helloworldGallery.csprojResolveAssemblyReference.cache
+C:\Users\Hannah\Documents\Visual Studio 2010\Projects\helloworldGallery\helloworldGallery\obj\x86\Debug\MainWindow.baml
+C:\Users\Hannah\Documents\Visual Studio 2010\Projects\helloworldGallery\helloworldGallery\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Hannah\Documents\Visual Studio 2010\Projects\helloworldGallery\helloworldGallery\obj\x86\Debug\App.g.cs
+C:\Users\Hannah\Documents\Visual Studio 2010\Projects\helloworldGallery\helloworldGallery\obj\x86\Debug\helloworldTouch_MarkupCompile.cache
+C:\Users\Hannah\Documents\Visual Studio 2010\Projects\helloworldGallery\helloworldGallery\obj\x86\Debug\helloworldTouch.g.resources
+C:\Users\Hannah\Documents\Visual Studio 2010\Projects\helloworldGallery\helloworldGallery\obj\x86\Debug\helloworldTouch.Properties.Resources.resources
+C:\Users\Hannah\Documents\Visual Studio 2010\Projects\helloworldGallery\helloworldGallery\obj\x86\Debug\helloworldGallery.csproj.GenerateResource.Cache

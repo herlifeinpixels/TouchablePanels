@@ -13,6 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Collections.ObjectModel;
+using System.Threading;
 
 namespace helloworldTouch
 {
@@ -26,6 +27,12 @@ namespace helloworldTouch
             DataContext = this;
             Photos = new ObservableCollection<string>();
             InitializeComponent();
+            //Thread.Sleep(10000);
+
+            Multitouch.Framework.WPF.Controls.Window.BindingGroupProperty.ToString();
+
+            changePhoto();
+
         }
 
         public ObservableCollection<string> Photos
@@ -42,6 +49,20 @@ namespace helloworldTouch
         {
             base.OnInitialized(e);
             foreach (string photo in Directory.GetFiles(Environment.GetFolderPath(Environment.SpecialFolder.MyPictures), "*.jpg").Take(5))
+            {
+                Photos.Add(photo);
+            }
+
+            //ThreadStart job = new ThreadStart(changePhoto);
+            //Thread thread = new Thread(job);
+            //thread.Start();
+
+        }
+
+        public void changePhoto() {
+            //Photos.Clear();
+            //Thread.Sleep(10000);
+            foreach (string photo in Directory.GetFiles("c:\\CRAP", "*.jpg").Take(1))
             {
                 Photos.Add(photo);
             }
