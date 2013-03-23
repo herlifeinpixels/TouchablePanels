@@ -8,7 +8,7 @@
         <ItemsControl ItemsSource="{Binding Photos}" >
             <ItemsControl.Resources>
                 <DataTemplate DataType="{x:Type sys:String}">
-                    <Image Source="{Binding}"/>
+                    <Image Source="{Binding}"></Image>
                 </DataTemplate>
             </ItemsControl.Resources>
             <ItemsControl.ItemsPanel>

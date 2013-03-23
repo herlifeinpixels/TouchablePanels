@@ -36,11 +36,21 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Multitouch.Framework.WPF">
-      <HintPath>..\..\..\..\..\..\..\MultiTouchVista\Framework\Multitouch.Framework.WPF.dll</HintPath>
+    <Reference Include="Microsoft.Kinect, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Windows\Microsoft.NET\assembly\GAC_MSIL\Microsoft.Kinect\v4.0_1.6.0.0__31bf3856ad364e35\Microsoft.Kinect.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Windows\Microsoft.NET\assembly\GAC_32\Microsoft.Xna.Framework\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="Physics2DDotNet, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\MultiTouchVista\Source\Main Source\Libraries\Physics2DDotNet\Physics2DDotNet.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Core" />
@@ -94,6 +104,20 @@
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
     <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\..\..\..\MultiTouchVista\Source\Main Source\Framework\Multitouch.Framework.WPF\Multitouch.Framework.WPF.csproj">
+      <Project>{F3219531-A4B9-4B65-B7EA-27C43E98C21D}</Project>
+      <Name>Multitouch.Framework.WPF</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\..\..\..\MultiTouchVista\Source\Main Source\Framework\Multitouch.Framework\Multitouch.Framework.csproj">
+      <Project>{F78A290F-5D34-4D20-9EAA-D4963BCA09AA}</Project>
+      <Name>Multitouch.Framework</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\..\Documents\Visual Studio 2010\Projects\airplayStream\AirStreamPlayer.csproj">
+      <Project>{3ED8049C-8218-49A9-96F1-E9881F146931}</Project>
+      <Name>AirStreamPlayer</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
